@@ -369,7 +369,7 @@ return [
                             ],
                         ],
                     ],
-                ], */  
+                ], */
            /*  ], */
         ],
         [
@@ -410,12 +410,12 @@ return [
                             ],
                         ],
                     ],
-                ], */  
+                ], */
            /*  ], */
         ],
         [
             'text'    => 'estadisticas de ventas',
-            'icon'    => 'fas fa-ligth fa-chart-pie', 
+            'icon'    => 'fas fa-ligth fa-chart-pie',
             'url'  => '#',
             /* 'submenu' => [
                 [
@@ -451,9 +451,14 @@ return [
                             ],
                         ],
                     ],
-                ], */  
+                ], */
            /*  ], */
         ],
+        [
+            'text'    => 'Usuarios',
+            'icon'    => 'fas fa-fw fa-user',
+            'route'  => 'usuarios'
+        ]
     ],
 
     /*
